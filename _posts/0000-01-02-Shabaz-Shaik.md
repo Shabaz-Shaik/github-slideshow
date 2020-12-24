@@ -2,7 +2,7 @@
 ---
 Layout: slide 
 
-Title: "Welcome to our second slide!"
+Title: "Nothing lasts forever"
 ---
 Your text
 Use the left arrow to go back!
